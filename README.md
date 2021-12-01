@@ -1,4 +1,4 @@
-# react-daterange-picker
+# materialui-daterange-picker
 
 A react date range picker using material-ui components.
 
